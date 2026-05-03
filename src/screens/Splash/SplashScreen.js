@@ -60,7 +60,7 @@ const SplashScreen = () => {
           }) }]} />
         </View>
         <Text style={s.title}>VENDOR CONNECT</Text>
-        <Text style={s.subtitle}>Est. 2024 • Professional Services</Text>
+        <Text style={s.subtitle}>Est. 2026 • Professional Services</Text>
       </Animated.View>
 
       <View style={s.footer}>

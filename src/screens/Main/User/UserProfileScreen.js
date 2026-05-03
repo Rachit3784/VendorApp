@@ -123,7 +123,7 @@ const UserProfileScreen = () => {
             </TouchableOpacity>
           </View>
           <Text style={[styles.nameText, { color: colors.textPrimary }]}>{user?.fullname?.toUpperCase()}</Text>
-          <Text style={[styles.roleText, { color: colors.textMuted }]}>CLIENT MEMBER • EST. 2024</Text>
+          <Text style={[styles.roleText, { color: colors.textMuted }]}>CLIENT MEMBER • EST. 2026</Text>
         </View>
 
         <View style={{ paddingHorizontal: spacing.md }}>

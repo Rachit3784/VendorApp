@@ -4,7 +4,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 // ─── Base URL ─────────────────────────────────────────────────────────────────
 // Use your machine's local IP when testing on a real device
 // e.g. 'http://192.168.1.x:9089'
-const BASE_URL = 'http://10.94.196.27:9089'; // Android emulator → localhost
+const BASE_URL = 'https://vendorserver-q4pn.onrender.com';
 
 const api = axios.create({
   baseURL: BASE_URL,
